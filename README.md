@@ -92,6 +92,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.
     align="left"
     alt="GitHub Stats"
     height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanAthaide&theme=cobalt&layout=compact&custom_title=Tecnologias&langs_count=7"  
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanAthaide&theme=cobalt&custom_title=Tecnologias&langs_count=7"  
 />
+          
           
