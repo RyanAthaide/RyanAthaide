@@ -79,6 +79,37 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.
 <br>
 <br>
 
+### 🛠️ Ferramentas
+
+<img
+    align="left"
+    alt="VsCODE"
+    title="VsCODE"
+    width="30px"
+    style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+/>
+<img
+    align="left"
+    alt="Figma"
+    title="Figma"
+    width="30px"
+    style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
+/>
+<img
+    align="left"
+    alt="Gimp"
+    title="Gimp"
+    width="30px"
+    style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" 
+/>
+
+<br>
+<br>
+<br>
+
 ### 📊 Estatísticas
 
 <img
@@ -94,5 +125,3 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.
     height="200"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanAthaide&theme=cobalt&custom_title=Tecnologias&langs_count=7"  
 />
-          
-          
